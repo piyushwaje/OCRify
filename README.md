@@ -91,10 +91,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact me:
-
-- **Name**: Piyush
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
